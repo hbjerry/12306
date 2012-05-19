@@ -41,7 +41,7 @@
 // @require	https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
 // ==/UserScript== 
 
-
+// Add comment
 
 function withjQuery(callback, safe){
 	if(typeof(jQuery) == "undefined") {
